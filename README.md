@@ -12,4 +12,4 @@ After compiling and flashing the BLING board there are some post setup things yo
 * Set your wifi network 
 * Set the 2D layout to 40x8 (I mean, if you want to, you don't have to unless you want to use BLING as a 2D matrix)
 * Enable the I2S microphone in Audioreactive settings. 
-* have fun with your BLIN
+* have fun with your BLING
